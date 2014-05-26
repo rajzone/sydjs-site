@@ -66,7 +66,7 @@ When it's all up and running, you should see the message `SydJS is ready on port
 
 The first time you run the site, the homepage will warn you that it expects there to be at least one meetup, and your database won't have any. Don't freak out, just go to [/keystone](http://localhost:3000/keystone), sign in as the admin user, and create one.
 
-https://www.codeship.io/projects/25e35fb0-c6be-0131-6b8a-327a1c7bc4b7/status
+https://www.codeship.io/projects/973b4f10-c6bf-0131-6b8a-327a1c7bc4b7/status
 
 You'll probably want to add some other content too (blog post, members, etc) to get all the pages looking right.
 
